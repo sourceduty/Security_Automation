@@ -14,6 +14,10 @@ Moreover, Security Automation emphasizes the importance of consulting cybersecur
 ### ChatGPT
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT/tree/main)
+<br>
+[Hack Automation](https://github.com/sourceduty/Hack_Automation)
+<br>
+[IoT Hacker](https://github.com/sourceduty/IoT_Hacker)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
